@@ -1,0 +1,7 @@
+---
+- hosts: "{{ hostname }}"
+  gather_facts: no
+  tasks:
+    - name: Reboot
+      ansible.builtin.reboot:
+        post_reboot_delay: 60
