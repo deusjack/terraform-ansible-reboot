@@ -1,4 +1,4 @@
-resource "ansible_playbook" "repoot" {
+resource "ansible_playbook" "reboot" {
   name                    = var.hostname
   playbook                = "${path.module}/reboot.yaml"
   replayable              = false

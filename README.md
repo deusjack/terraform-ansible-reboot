@@ -32,7 +32,7 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [ansible_playbook.repoot](https://registry.terraform.io/providers/ansible/ansible/latest/docs/resources/playbook) | resource |
+| [ansible_playbook.reboot](https://registry.terraform.io/providers/ansible/ansible/latest/docs/resources/playbook) | resource |
 | [null_resource.external](https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource) | resource |
 | [null_resource.reboot](https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource) | resource |
 
